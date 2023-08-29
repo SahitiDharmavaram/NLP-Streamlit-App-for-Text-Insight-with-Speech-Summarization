@@ -1,0 +1,9 @@
+"""The packages required to run the code streamlit_nlp.py"""
+
+pip install streamlit
+pip install textblob
+pip install pandas
+pip install SpeechRecognition
+pip install spacy
+pip install bert-extractive-summarizer
+pip install sumy
